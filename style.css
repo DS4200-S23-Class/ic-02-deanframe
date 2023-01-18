@@ -1,0 +1,30 @@
+html {
+  font-family: Arial, sans-serif;
+}
+
+h1, h3 {
+  text-align: center;
+}
+
+.container {
+  border: 2px solid black;
+}
+
+#p1 {
+  color: darkgreen;
+}
+
+#dom-img {
+  max-width: 25%;
+  height: auto;
+}
+
+rect {
+  fill: aqua;
+}
+
+#acknowledgements {
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+}
